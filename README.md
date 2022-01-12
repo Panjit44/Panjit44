@@ -1,4 +1,4 @@
-### Hi there 👋 I am Sanjay Cherukat and here is some of my work
+### Hi there 👋 I am Sanjay Cherukat and here is some of my work!
 
 <!--
 **Panjit44/Panjit44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
